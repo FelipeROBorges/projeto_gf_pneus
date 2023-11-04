@@ -1,0 +1,5 @@
+environment:
+  gf_database: ${GF_DATABASE}
+  gf_user: ${GF_USER}
+  gf_password: ${GF_PASSWORD}
+  front_url: ${GF_SERVER_FRONT_URL}
